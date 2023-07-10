@@ -1,0 +1,73 @@
+/* #logo{
+    margin-right: 6rem;
+} */
+#Search{
+    width: 12rem ;
+}
+#section2{
+    padding: 2rem;
+    padding-top: 8rem;
+}
+#section1{
+    padding-left: 6rem;
+    
+}
+.proj img{
+    width: 14rem;
+    height: 8rem;
+}
+#Projects{
+    height: 39rem;
+}
+#headp{
+    font-size: 2rem;
+}
+#abh{
+    font-size: 2rem;
+}
+#headc{
+    font-size: 2rem;
+}
+#Form label{
+    font-size: 1rem;
+}
+#Form textarea{
+    width: 15rem;
+}
+#submit{
+    font-size: 1rem;
+}
+#Form{
+    height: 32rem;
+}
+#contactME{
+    width: 20rem;
+}
+/* #about h3{
+    font-size: 1rem;
+} */
+.spb{
+    width: 21rem;
+}
+#spb2 h3{
+    font-size: 1rem;
+}
+.small{
+    font-size: 1rem;
+}
+#prenam{
+    font-size: 1rem;
+}
+#paraab{
+    width: 20rem;
+}
+#ab2{
+    height: 27rem;
+}
+#about{
+    height: 40rem;
+}
+.proj img:hover{
+    width: 16rem;
+    height: 10rem;
+}

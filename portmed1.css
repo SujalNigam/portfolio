@@ -1,0 +1,21 @@
+
+    
+  #imga {
+    width: 20rem;
+    height: 23rem;
+}
+#bor1 {
+    width: 20rem;
+    height: 23rem;
+}
+#logo{
+    margin-right: 10rem;
+}
+#Search{
+    position: absolute;
+    right: 0px;
+    padding:10px 2px;
+}
+#spnav{
+    position: relative;
+}

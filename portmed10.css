@@ -1,0 +1,88 @@
+#about{
+    height: 47rem;
+}
+#paraab{
+    width: 14rem;
+    font-size: 0.6rem;
+    padding-top: 1rem;
+}
+.nam{
+    font-size: 1rem;
+}
+.spb p{
+    font-size: 0.5rem;
+}
+.spb2 p{
+    font-size: 0.6rem;
+}
+.spb{
+    width: 14rem;
+}
+#Search{
+    padding: 1px 1px;
+    width: 8rem;
+    font-size: 0.8rem;
+    margin-top: 0.5rem;
+}
+#section1{
+    height: 18rem;
+    padding-left: 3rem;
+    padding-top: 8rem;
+}
+#section2{
+    height: 18rem;
+    padding-top: 7rem;
+}
+#spimg{
+    width: 10rem;
+    height: 8rem;
+}
+#contactME {
+    width: 17rem;
+}
+#Form label {
+    font-size: 0.8rem;
+}
+#Form input {
+    width: 10rem;
+    height: 1.5rem;
+    font-size: 0.6rem;
+}
+#Form textarea {
+    width: 13rem;
+    font-size: 0.6rem;
+}
+#submit {
+    font-size: 0.8rem;
+}
+#logo{
+    font-size: 1rem;
+}
+#navbar ul li{
+    font-size: 0.8rem;
+}
+#ab2{
+    height: 21rem;
+}
+#about{
+    height: 34rem;
+}
+#center{
+    font-size: 0.6rem;
+}
+#contactME {
+    width: 16rem;
+    height: 34rem;
+}
+#bor1 {
+    width: 8rem;
+    height: 11rem;
+}
+#imga {
+    width: 8rem;
+    height: 11rem;
+}
+.proj img {
+    width: 12rem;
+    height: 7rem;
+}

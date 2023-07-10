@@ -1,0 +1,52 @@
+#spimg{
+    width: 24rem;
+    height: 20rem;
+}
+#section1{
+    font-size: 3rem;
+    height: 35rem;
+}
+#section2{
+    height: 35rem;
+}
+#imga{
+    width: 9rem;
+    height: 12rem;
+}
+#bor1{
+    width: 9rem;
+    height: 12rem;
+}
+/* #ab2{
+    width: 32rem;
+} */
+#logo{
+    margin-right: 10rem;
+}
+#navbar ul li{
+    padding: 0.5vh 1vw;
+}
+.spb2{
+    font-size: 0.8rem;
+}
+.spbs{
+    /* margin-right:2rem ; */
+    /* border: 2px solid red; */
+    width: 5rem;
+}
+.spb{
+    /* border: 2px solid pink; */
+    margin: 1rem 0rem;
+}
+#about{
+    /* border: 2px solid green; */
+    margin: 1rem 7rem;
+}
+#section1{
+    /* padding-top: rem; */
+    font-size: 2rem;
+}
+.proj img:hover{
+    width: 12rem;
+    height: 12rem;
+}
